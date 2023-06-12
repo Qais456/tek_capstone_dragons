@@ -55,13 +55,13 @@ Feature: Retail Home Page
     And User click on Proceed to Checkout button
     And User click Add a new address link for shipping address
     And User fill the new address form with below information
-      | Country       | FullName    | PhoneNumber | StreetAddress  | Apt  | City         | State    | ZipCode |
-      | United States | Ashraf Khan |  8178333549 | 345 School Ave | 1033 | Falls Church | Virginia |   76135 |
+      | Country       | FullName  | PhoneNumber | StreetAddress  | Apt  | City         | State    | ZipCode |
+      | United States | qais Khan |  8178333592 | 345 School Ave | 1033 | Falls Church | Virginia |   76135 |
     And User click Add Your Address  button
     And User click Add a credit card or Debit Card for Payment method
     And User fill the Debit or credit card information
       | CardNumber       | NameOnCard | ExpirationMonth | ExpirationYear | SecurityCode |
-      | 4444772352818833 | Ali Jan    |              12 |           2025 |          546 |
+      | 4444772352819933 | Ali Jan    |              12 |           2025 |          546 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message should be displayed Order Placed, Thanks
