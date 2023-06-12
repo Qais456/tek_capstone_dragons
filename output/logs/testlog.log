@@ -1324,3 +1324,8 @@
 2023-06-12 14:11:46,413 - logger_File -INFO - user entered email Qaishaidari570@gmail.comand password Parwan@123
 2023-06-12 14:11:46,534 - logger_File -INFO - user clicked on login button
 2023-06-12 14:11:46,768 - logger_File -INFO - user logged in ito account
+2023-06-12 15:14:11,541 - logger_File -INFO - React App is equal to React App
+2023-06-12 15:14:11,917 - logger_File -INFO - user clicked on Sign In option
+2023-06-12 15:14:12,114 - logger_File -INFO - user entered email Qaishaidari570@gmail.comand password Parwan@123
+2023-06-12 15:14:12,400 - logger_File -INFO - user clicked on login button
+2023-06-12 15:14:12,525 - logger_File -INFO - user logged in ito account
